@@ -1,0 +1,68 @@
+#start-game {
+	background-color: rgba(0, 0, 0, 0);
+	border: none;
+	color: white;
+	font-family: 'Aniron', sans-serif;
+	font-size: 30px;
+}
+
+#button-row {
+	text-align: center;
+	font-size: 40px;
+}
+
+
+html {
+	text-align: center;
+	background-image: url(../images/minas-tirith.jpg);
+	background-size: 100% 1080px;
+}
+
+input {
+	background-color: rgba(0, 0, 0, 0);
+	border: none;
+	color: white;
+	font-family: 'Aniron', sans-serif;
+	font-size: 30px;
+}
+
+body {
+	margin-top: 100px;
+	margin-left: 300px;
+	margin-right: 300px;
+	background-color: ;
+	color: white;
+	font-family: 'Aniron', sans-serif;
+	font-size: 30px;
+}
+
+header {
+	font-family: 'Ringbearer', sans-serif;
+	font-size: 100px;
+	color: black;
+	margin-bottom: 20px;
+}
+
+input:hover {
+	color: black;
+}
+
+.reset {
+	background-color: rgba(0, 0, 0, 0);
+	border: none;
+	color: white;
+	font-family: 'Aniron', sans-serif;
+	font-size: 30px;
+}
+
+.reset:hover {
+	color: black;
+}
+
+#start-game:hover {
+	color: black;
+}
+
+#question-answer {
+	margin-bottom: 20px;
+}
